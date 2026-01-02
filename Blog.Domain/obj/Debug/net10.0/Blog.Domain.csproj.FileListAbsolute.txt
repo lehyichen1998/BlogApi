@@ -1,0 +1,11 @@
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\bin\Debug\net10.0\Blog.Domain.deps.json
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\bin\Debug\net10.0\Blog.Domain.dll
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\bin\Debug\net10.0\Blog.Domain.pdb
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\obj\Debug\net10.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\obj\Debug\net10.0\Blog.Domain.AssemblyInfoInputs.cache
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\obj\Debug\net10.0\Blog.Domain.AssemblyInfo.cs
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\obj\Debug\net10.0\Blog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\obj\Debug\net10.0\Blog.Domain.dll
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\obj\Debug\net10.0\refint\Blog.Domain.dll
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\obj\Debug\net10.0\Blog.Domain.pdb
+C:\Users\Yi Chen\source\repos\Blog.Api\Blog.Domain\obj\Debug\net10.0\ref\Blog.Domain.dll
